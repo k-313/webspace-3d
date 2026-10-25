@@ -1,7 +1,7 @@
 # WebSpace 3D | Interactive Solar System Observatory
 
 [![WebSpace 3D Live](https://img.shields.io/badge/Live%20Observatory-webspace--3d.vercel.app-brightgreen?style=for-the-badge&logo=vercel)](https://webspace-3d.vercel.app)
-[![WebSpace 3D CI](https://github.com/webspace3d/webspace-3d/actions/workflows/ci.yml/badge.svg)](https://github.com/webspace3d/webspace-3d/actions)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-k--313%2Fwebspace--3d-blue?style=for-the-badge&logo=github)](https://github.com/k-313/webspace-3d)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![React Three Fiber](https://img.shields.io/badge/Three.js-R3F-black?logo=three.js)](https://docs.pmnd.rs/react-three-fiber)
